@@ -6,6 +6,9 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { SignupComponent } from './signup/signup.component';
 import { LoginComponent } from './login/login.component';
+import { QuotesComponent } from './quotes/quotes.component';
+import { StatsComponent } from './stats/stats.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +16,10 @@ import { LoginComponent } from './login/login.component';
     HeaderComponent,
     SignupComponent,
     LoginComponent,
-    routingComponents
+    routingComponents,
+    QuotesComponent,
+    StatsComponent,
+    FooterComponent
     
   ],
   imports: [
