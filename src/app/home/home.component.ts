@@ -21,7 +21,7 @@ export class HomeComponent implements OnInit {
   }
 
   svg = `<svg xmlns="http://www.w3.org/2000/svg" 
-  width="560px" height="400px" viewBox="0 0 866.80518 443.06433" 
+  width="460px" height="360px" viewBox="0 0 866.80518 443.06433" 
   xmlns:xlink="http://www.w3.org/1999/xlink" style="user-select: auto;">
   <path d="M711.46549,396.38602H175.4178c-4.98192,0-9.03451-4.05259-9.03451-9.03451s4.05259-9.03451,9.03451-9.03451H711.
   46549c4.98192,0,9.03451,4.05259,9.03451,9.03451s-4.05259,9.03451-9.03451,9.03451Z" fill="#e6e6e6" style="user-select: auto;
